@@ -1,6 +1,8 @@
 # SEIT
 
 > 所有资料仅供学习使用，如有侵权请联系仓库所有者删除。
+>
+> 加速链接https://gitee.com/georgedong32/SEIT
 
 ## 简介
 
@@ -8,10 +10,18 @@
 
 如果你觉得这个项目帮助到你了，请为这个项目点一个**star**，或者向这个项目共享你的资料。
 
+### 子项目
+
+* [My-Physics-Experiments](https://github.com/GeorgeDong32/My-Physics-Experiments)
+* [Analog-Circuit-Experiments](https://github.com/GeorgeDong32/Analog-Circuit-Experiments)
+* [MATLAB-Learn](https://github.com/GeorgeDong32/MATLAB-Learn)
+* [SYSU_Matrix_2022](https://github.com/GeorgeDong32/SYSU_Matrix_2022)
+
 ## 项目资料内容
 
 * **往年试卷**
 * **电子书/书本答案**
+* **实验数据**
 * ……
 
 ## 向项目共享资料
