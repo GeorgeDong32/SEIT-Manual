@@ -1,6 +1,8 @@
 # SEIT
 
 > 所有资料仅供学习使用，如有侵权请联系仓库所有者删除。
+>
+> 加速链接https://gitee.com/georgedong32/SEIT
 
 ## 简介
 
